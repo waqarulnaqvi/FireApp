@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="hidepassword">\"Hide Password\"\n</string>
+    <string name="showpassword">\"Show password\"</string>
+</resources>
